@@ -1,0 +1,3190 @@
+# Copyright (C) 2013 envirra
+# This file is distributed under the GPL.
+msgid ""
+msgstr ""
+"Project-Id-Version: Presso 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2014-06-17 08:20:43+00:00\n"
+"PO-Revision-Date: 2014-06-17 15:23+0700\n"
+"Last-Translator: chettapong <the.oppertunity@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: archive.php:18
+msgid "Posts in category"
+msgstr ""
+
+#: archive.php:23
+msgid "Posts tagged"
+msgstr ""
+
+#: archive.php:27 archive.php:31 archive.php:35
+msgid "All posts on"
+msgstr ""
+
+#: archive.php:120
+msgid "No entry was found"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+msgid "Creator"
+msgstr ""
+
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94 bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: bbpress/content-single-topic.php:25
+msgid "Tagged:"
+msgstr ""
+
+#: bbpress/content-statistics.php:17
+msgid "Registered Users"
+msgstr ""
+
+#: bbpress/content-statistics.php:22
+msgid "Forums"
+msgstr ""
+
+#: bbpress/content-statistics.php:27 bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:32 bbpress/loop-forums.php:21
+#: bbpress/loop-replies.php:32 bbpress/loop-replies.php:70
+#: bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: bbpress/content-statistics.php:37
+msgid "Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:44
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: bbpress/content-statistics.php:53
+msgid "Hidden Topics"
+msgstr ""
+
+#: bbpress/content-statistics.php:64
+msgid "Hidden Replies"
+msgstr ""
+
+#: bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr ""
+
+#: bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#: bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-search.php:13
+msgid "Oh bother! No search results were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr ""
+
+#: bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr ""
+
+#: bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr ""
+
+#: bbpress/form-forum.php:35 bbpress/form-topic.php:41
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:37
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: bbpress/form-forum.php:55 bbpress/form-reply.php:44
+#: bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: bbpress/form-forum.php:67
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-forum.php:82 bbpress/form-reply.php:64
+#: bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr ""
+
+#: bbpress/form-forum.php:100
+msgid "Status:"
+msgstr ""
+
+#: bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr ""
+
+#: bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr ""
+
+#: bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr ""
+
+#: bbpress/form-forum.php:138 bbpress/form-reply-move.php:72
+#: bbpress/form-reply.php:135 bbpress/form-topic-merge.php:93
+#: bbpress/form-topic-split.php:97 bbpress/form-topic.php:203
+msgid "Submit"
+msgstr ""
+
+#: bbpress/form-forum.php:161
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr ""
+
+#: bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: bbpress/form-protected.php:14
+msgid "Protected"
+msgstr ""
+
+#: bbpress/form-reply-move.php:24
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr ""
+
+#: bbpress/form-reply-move.php:41 bbpress/form-topic-split.php:41
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:42
+msgid "Moved: %s"
+msgstr ""
+
+#: bbpress/form-reply-move.php:49 bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: bbpress/form-reply-move.php:68 bbpress/form-topic-merge.php:89
+#: bbpress/form-topic-split.php:93
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: bbpress/form-reply-move.php:85
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: bbpress/form-reply-move.php:85
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: bbpress/form-reply.php:29
+msgid "Reply To: %s"
+msgstr ""
+
+#: bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-reply.php:75 single_fullwidth.php:44
+#: single_right_sidebar.php:41
+msgid "Tags:"
+msgstr ""
+
+#: bbpress/form-reply.php:93 bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:97 bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:114 bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-reply.php:118 bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: bbpress/form-reply.php:158
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: bbpress/form-reply.php:166 bbpress/form-topic.php:226
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: bbpress/form-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: bbpress/form-search.php:17 framework/instant-search/instant-search.php:105
+#: header.php:41 search.php:7 searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:24
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:56
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:64 bbpress/form-topic-split.php:68
+msgid "Topic Extras"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:71
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:76
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:81
+msgid "Merge topic tags"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:106 bbpress/form-topic-split.php:110
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:106 bbpress/form-topic-split.php:110
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:24
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr ""
+
+#: bbpress/form-topic-split.php:42
+msgid "Split: %s"
+msgstr ""
+
+#: bbpress/form-topic-split.php:75
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:80
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:85
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:18
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:45
+msgid "Update"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:59 bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:73
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:88 bbpress/form-topic-tag.php:101
+msgid "Delete"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:101
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: bbpress/form-topic.php:43
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/form-topic.php:75
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr ""
+
+#: bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr ""
+
+#: bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr ""
+
+#: bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr ""
+
+#: bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr ""
+
+#: bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/form-user-edit.php:14 bbpress/form-user-edit.php:19
+msgid "Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr ""
+
+#: bbpress/form-user-edit.php:39
+msgid "Display Name"
+msgstr ""
+
+#: bbpress/form-user-edit.php:49 bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:57 comments.php:45
+msgid "Website"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr ""
+
+#: bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr ""
+
+#: bbpress/form-user-edit.php:90 bbpress/form-user-edit.php:93
+msgid "Account"
+msgstr ""
+
+#: bbpress/form-user-edit.php:98 bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+msgid "Username"
+msgstr ""
+
+#: bbpress/form-user-edit.php:103 bbpress/form-user-register.php:28
+#: framework/meta-box/demo/demo.php:239
+msgid "Email"
+msgstr ""
+
+#: bbpress/form-user-edit.php:115
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+
+#: bbpress/form-user-edit.php:124
+msgid "New Password"
+msgstr ""
+
+#: bbpress/form-user-edit.php:127
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: bbpress/form-user-edit.php:130
+msgid "Type your new password again."
+msgstr ""
+
+#: bbpress/form-user-edit.php:133
+msgid ""
+"Your password should be at least ten characters long. Use upper and lower "
+"case letters, numbers, and symbols to make it even stronger."
+msgstr ""
+
+#: bbpress/form-user-edit.php:143 bbpress/form-user-edit.php:146
+msgid "User Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:153
+msgid "Network Role"
+msgstr ""
+
+#: bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: bbpress/form-user-edit.php:173
+msgid "Save Changes"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178
+msgid "Update Profile"
+msgstr ""
+
+#: bbpress/form-user-edit.php:178
+msgid "Update User"
+msgstr ""
+
+#: bbpress/form-user-login.php:14 bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr ""
+
+#: bbpress/form-user-login.php:22 framework/meta-box/demo/demo.php:108
+msgid "Password"
+msgstr ""
+
+#: bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr ""
+
+#: bbpress/form-user-register.php:14
+msgid "Create an Account"
+msgstr ""
+
+#: bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+
+#: bbpress/form-user-register.php:36
+msgid "Register"
+msgstr ""
+
+#: bbpress/form-user-roles.php:13
+msgid "Blog Role"
+msgstr ""
+
+#: bbpress/form-user-roles.php:20
+msgid "Forum Role"
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-replies.php:24
+#: bbpress/loop-replies.php:66 bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: bbpress/loop-forums.php:22 bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: bbpress/loop-replies.php:18 bbpress/loop-replies.php:60
+#: bbpress/loop-search.php:18 bbpress/loop-search.php:40
+msgid "Author"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:16
+msgid "Last updated %s"
+msgstr ""
+
+#: bbpress/loop-search-forum.php:26
+msgid "Forum: "
+msgstr ""
+
+#: bbpress/loop-search-reply.php:24
+msgid "In reply to: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:26
+msgid "Topic: "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:33
+msgid "in group forum "
+msgstr ""
+
+#: bbpress/loop-search-topic.php:37
+msgid "in forum "
+msgstr ""
+
+#: bbpress/loop-search.php:22 bbpress/loop-search.php:44
+msgid "Search Results"
+msgstr ""
+
+#: bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr ""
+
+#: bbpress/loop-single-topic.php:60
+msgid "Started by: %1$s"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:68
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: bbpress/loop-topics.php:20
+msgid "Voices"
+msgstr ""
+
+#: bbpress/user-details.php:29
+msgid "%s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:29 bbpress/user-profile.php:15
+msgid "Profile"
+msgstr ""
+
+#: bbpress/user-details.php:35
+msgid "%s's Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:35
+msgid "Topics Started"
+msgstr ""
+
+#: bbpress/user-details.php:41
+msgid "%s's Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:41
+msgid "Replies Created"
+msgstr ""
+
+#: bbpress/user-details.php:48
+msgid "%s's Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:48
+msgid "Favorites"
+msgstr ""
+
+#: bbpress/user-details.php:58
+msgid "%s's Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:58
+msgid "Subscriptions"
+msgstr ""
+
+#: bbpress/user-details.php:65
+msgid "Edit %s's Profile"
+msgstr ""
+
+#: bbpress/user-details.php:65
+msgid "Edit"
+msgstr ""
+
+#: bbpress/user-favorites.php:15
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: bbpress/user-favorites.php:29
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: bbpress/user-favorites.php:29
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: bbpress/user-profile.php:25
+msgid "Forum Role: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:26
+msgid "Topics Started: %s"
+msgstr ""
+
+#: bbpress/user-profile.php:27
+msgid "Replies Created: %s"
+msgstr ""
+
+#: bbpress/user-replies-created.php:15
+msgid "Forum Replies Created"
+msgstr ""
+
+#: bbpress/user-replies-created.php:29
+msgid "You have not replied to any topics."
+msgstr ""
+
+#: bbpress/user-replies-created.php:29
+msgid "This user has not replied to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:19
+msgid "Subscribed Forums"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:29
+msgid "You are not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:29
+msgid "This user is not currently subscribed to any forums."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:35
+msgid "Subscribed Topics"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:49
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:49
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:15
+msgid "Forum Topics Started"
+msgstr ""
+
+#: bbpress/user-topics-created.php:29
+msgid "You have not created any topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:29
+msgid "This user has not created any topics."
+msgstr ""
+
+#: bbpress.php:24 page.php:36 page_no_title.php:38
+msgid "Not Found"
+msgstr ""
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:16
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:16 templates/post-box/classic.php:40
+#: templates/post-box/large-thumbnail.php:40
+msgid "<span>1</span> Comment"
+msgstr ""
+
+#: comments.php:16 templates/post-box/classic.php:40
+#: templates/post-box/large-thumbnail.php:40
+msgid "<span>%</span> Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Name (required)"
+msgstr ""
+
+#: comments.php:44
+msgid "E-Mail (required)"
+msgstr ""
+
+#: comments.php:51
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:53
+msgid "Submit comment"
+msgstr ""
+
+#: footer.php:9
+msgid "Back to top"
+msgstr ""
+
+#: framework/admin/custom-fields/field_font_upload/field_upload.php:46
+#: framework/admin/options/fields/upload/field_upload.php:30
+msgid "Upload"
+msgstr ""
+
+#: framework/admin/custom-fields/field_font_upload/field_upload.php:47
+#: framework/admin/options/fields/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr ""
+
+#: framework/admin/custom-fields/field_typography.php:30
+msgid "Family / Color"
+msgstr ""
+
+#: framework/admin/custom-fields/field_typography.php:33
+msgid "Default Fonts"
+msgstr ""
+
+#: framework/admin/custom-fields/field_typography.php:36
+msgid "Google Fonts"
+msgstr ""
+
+#: framework/admin/custom-fields/field_typography.php:57
+msgid "Size / Weight"
+msgstr ""
+
+#: framework/admin/custom-fields/field_typography.php:62
+msgid "Weight"
+msgstr ""
+
+#: framework/admin/options/defaults.php:45
+#: framework/admin/options/defaults.php:47
+msgid "Options"
+msgstr ""
+
+#: framework/admin/options/defaults.php:58
+msgid ""
+"<span id=\"footer-thankyou\">Options panel created using <a href=\"%s\" "
+"target=\"_blank\">Redux Framework</a> v%s</span>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:232
+#: framework/admin/options/defaults.php:233
+#: framework/admin/options/defaults.php:668
+msgid "Import / Export"
+msgstr ""
+
+#: framework/admin/options/defaults.php:252
+#: framework/admin/options/defaults.php:253
+#: framework/admin/options/defaults.php:699
+#: framework/admin/options/defaults.php:772
+msgid "Dev Mode Info"
+msgstr ""
+
+#: framework/admin/options/defaults.php:344
+msgid "Are you sure? You will lose all custom values."
+msgstr ""
+
+#: framework/admin/options/defaults.php:620
+#: framework/admin/options/defaults.php:797
+msgid "Reset to Defaults"
+msgstr ""
+
+#: framework/admin/options/defaults.php:626
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:628
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:633
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:634
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:635
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: framework/admin/options/defaults.php:717
+msgid "Import / Export Options"
+msgstr ""
+
+#: framework/admin/options/defaults.php:718
+msgid "Import Options"
+msgstr ""
+
+#: framework/admin/options/defaults.php:719
+msgid "Import from file"
+msgstr ""
+
+#: framework/admin/options/defaults.php:719
+msgid "Import from URL"
+msgstr ""
+
+#: framework/admin/options/defaults.php:724
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: framework/admin/options/defaults.php:734
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: framework/admin/options/defaults.php:741
+msgid "Import"
+msgstr ""
+
+#: framework/admin/options/defaults.php:741
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"caution!"
+msgstr ""
+
+#: framework/admin/options/defaults.php:744
+msgid "Export Options"
+msgstr ""
+
+#: framework/admin/options/defaults.php:746
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: framework/admin/options/defaults.php:749
+msgid "Copy"
+msgstr ""
+
+#: framework/admin/options/defaults.php:749
+msgid "Copy Link"
+msgstr ""
+
+#: framework/admin/options/fields/color_gradient/field_color_gradient.php:28
+#: framework/admin/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr ""
+
+#: framework/admin/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr ""
+
+#: framework/admin/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr ""
+
+#: framework/admin/options/fields/google_webfonts/field_google_webfonts.php:25
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href="
+"\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>"
+msgstr ""
+
+#: framework/admin/options/fields/multi_text/field_multi_text.php:31
+#: framework/admin/options/fields/multi_text/field_multi_text.php:35
+#: framework/admin/options/fields/multi_text/field_multi_text.php:38
+msgid "Remove"
+msgstr ""
+
+#: framework/admin/options/fields/multi_text/field_multi_text.php:40
+msgid "Add More"
+msgstr ""
+
+#: framework/admin/options/validation/color/validation_color.php:13
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: framework/admin/options/validation/comma_numeric/validation_comma_numeric.php:13
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: framework/admin/options/validation/date/validation_date.php:13
+msgid "This field must be a valid date."
+msgstr ""
+
+#: framework/admin/options/validation/email/validation_email.php:13
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: framework/admin/options/validation/no_html/validation_no_html.php:13
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: framework/admin/options/validation/no_special_chars/validation_no_special_chars.php:13
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: framework/admin/options/validation/numeric/validation_numeric.php:13
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: framework/admin/options/validation/url/validation_url.php:13
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: framework/admin/options.php:70
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: framework/admin/options.php:75
+msgid "Find me on LinkedIn"
+msgstr ""
+
+#: framework/admin/options.php:89 framework/admin/options.php:93
+msgid "Theme Options"
+msgstr ""
+
+#: framework/admin/options.php:124
+msgid "General"
+msgstr ""
+
+#: framework/admin/options.php:125
+msgid "<p class=\"description\">These are the general options.</p>"
+msgstr ""
+
+#: framework/admin/options.php:130
+msgid "Site Layout"
+msgstr ""
+
+#: framework/admin/options.php:131
+msgid "Choose the site layout."
+msgstr ""
+
+#: framework/admin/options.php:134
+msgid "Full-Page (970px Wide)"
+msgstr ""
+
+#: framework/admin/options.php:135
+msgid "Full-Page (1200px Wide)"
+msgstr ""
+
+#: framework/admin/options.php:136
+msgid "Boxed"
+msgstr ""
+
+#: framework/admin/options.php:142
+msgid "Enable Fly-in Effects for Post"
+msgstr ""
+
+#: framework/admin/options.php:149
+msgid "Enable RTL Supports"
+msgstr ""
+
+#: framework/admin/options.php:156
+msgid "Enable Meta Description"
+msgstr ""
+
+#: framework/admin/options.php:157
+msgid ""
+"You can disable the meta description tag when using the SEO plugin like Yoast"
+msgstr ""
+
+#: framework/admin/options.php:164
+msgid "Tracking Code"
+msgstr ""
+
+#: framework/admin/options.php:165
+msgid ""
+"Enter your Google Analytics Code or other tracking code. The code must "
+"including <strong>&lt;script&gt;</strong> tag."
+msgstr ""
+
+#: framework/admin/options.php:174
+msgid "Blog"
+msgstr ""
+
+#: framework/admin/options.php:175
+msgid "<p class=\"description\">These are the options for the blog.</p>"
+msgstr ""
+
+#: framework/admin/options.php:180
+msgid "Blog Excerpt Length"
+msgstr ""
+
+#: framework/admin/options.php:181 framework/admin/options.php:200
+msgid "Used for blog page, archives & search results."
+msgstr ""
+
+#: framework/admin/options.php:188
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/admin/options.php:189
+msgid "Choose the layout for blog page."
+msgstr ""
+
+#: framework/admin/options.php:192
+#: framework/page-composer/page-composer.php:101
+#: framework/page-composer/page-composer.php:159
+#: framework/page-composer/page-composer.php:223
+#: framework/page-composer/page-composer.php:293
+#: framework/widgets/latest-category.php:165
+msgid "Large Thumbnail"
+msgstr ""
+
+#: framework/admin/options.php:193
+#: framework/page-composer/page-composer.php:103
+#: framework/page-composer/page-composer.php:161
+#: framework/page-composer/page-composer.php:225
+#: framework/page-composer/page-composer.php:295
+msgid "Classic"
+msgstr ""
+
+#: framework/admin/options.php:199
+msgid "Default Sidebar for Blog"
+msgstr ""
+
+#: framework/admin/options.php:206
+msgid "Enable Posts Slider on Archive Page"
+msgstr ""
+
+#: framework/admin/options.php:207
+msgid "All posts marked as featured will be shown in post slider."
+msgstr ""
+
+#: framework/admin/options.php:214
+msgid "Show Featured Image"
+msgstr ""
+
+#: framework/admin/options.php:215
+msgid ""
+"Show/hide the featured image for standard post type on single-post page."
+msgstr ""
+
+#: framework/admin/options.php:222
+msgid "Show Video Player on Featured Image"
+msgstr ""
+
+#: framework/admin/options.php:230
+msgid "Blog Post"
+msgstr ""
+
+#: framework/admin/options.php:235
+msgid "Show Posts At The Top"
+msgstr ""
+
+#: framework/admin/options.php:236
+msgid "Choose the way to show the posts at the top of single post page."
+msgstr ""
+
+#: framework/admin/options.php:239
+msgid "Not Shown"
+msgstr ""
+
+#: framework/admin/options.php:240
+msgid "Show Latest Posts"
+msgstr ""
+
+#: framework/admin/options.php:241
+msgid "Show Random Posts"
+msgstr ""
+
+#: framework/admin/options.php:247
+msgid "Enable Author Info"
+msgstr ""
+
+#: framework/admin/options.php:254
+msgid "Enable Related Post"
+msgstr ""
+
+#: framework/admin/options.php:263
+msgid "Custom Wordpress Gallery"
+msgstr ""
+
+#: framework/admin/options.php:269
+msgid "Enable Custom Wordpress Gallery"
+msgstr ""
+
+#: framework/admin/options.php:270
+msgid ""
+"Turn it off if you need to use the Jetpack Carousel or other gallery plugins."
+msgstr ""
+
+#: framework/admin/options.php:278
+msgid "Gallery Layout"
+msgstr ""
+
+#: framework/admin/options.php:279
+msgid ""
+"A numbers representing the number of columns for each row. Example, \"213\" "
+"is the 1st row has 2 images, 2nd row has 1 image, 3rd row has 3 images."
+msgstr ""
+
+#: framework/admin/options.php:287
+msgid "Share-Box"
+msgstr ""
+
+#: framework/admin/options.php:292
+msgid "Enable Share-Box"
+msgstr ""
+
+#: framework/admin/options.php:299
+msgid "Enable Share To Delicious"
+msgstr ""
+
+#: framework/admin/options.php:306
+msgid "Enable Share To Digg"
+msgstr ""
+
+#: framework/admin/options.php:313
+msgid "Enable Share To Email"
+msgstr ""
+
+#: framework/admin/options.php:320
+msgid "Enable Share To Facebook"
+msgstr ""
+
+#: framework/admin/options.php:327
+msgid "Enable Share To Google+"
+msgstr ""
+
+#: framework/admin/options.php:334
+msgid "Enable Share To LinkedIn"
+msgstr ""
+
+#: framework/admin/options.php:341
+msgid "Enable Share To Pinterest"
+msgstr ""
+
+#: framework/admin/options.php:348
+msgid "Enable Share To Reddit"
+msgstr ""
+
+#: framework/admin/options.php:355
+msgid "Enable Share To Tumblr"
+msgstr ""
+
+#: framework/admin/options.php:362
+msgid "Enable Share To Twitter"
+msgstr ""
+
+#: framework/admin/options.php:373
+msgid "Social Media"
+msgstr ""
+
+#: framework/admin/options.php:374
+msgid ""
+"<p class=\"description\">These are options for setting up the site’s social "
+"media.</p>"
+msgstr ""
+
+#: framework/admin/options.php:379
+msgid "Delicious URL"
+msgstr ""
+
+#: framework/admin/options.php:380 framework/admin/options.php:386
+#: framework/admin/options.php:392 framework/admin/options.php:398
+#: framework/admin/options.php:405 framework/admin/options.php:411
+#: framework/admin/options.php:417 framework/admin/options.php:423
+#: framework/admin/options.php:429 framework/admin/options.php:435
+#: framework/admin/options.php:441 framework/admin/options.php:447
+#: framework/admin/options.php:453 framework/admin/options.php:459
+#: framework/admin/options.php:465 framework/admin/options.php:472
+#: framework/admin/options.php:478 framework/admin/options.php:484
+msgid "The URL to your account page"
+msgstr ""
+
+#: framework/admin/options.php:385
+msgid "Digg URL"
+msgstr ""
+
+#: framework/admin/options.php:391
+msgid "Dribbble URL"
+msgstr ""
+
+#: framework/admin/options.php:397
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/admin/options.php:404
+msgid "Flickr URL"
+msgstr ""
+
+#: framework/admin/options.php:410
+msgid "Forrst URL"
+msgstr ""
+
+#: framework/admin/options.php:416
+msgid "Github URL"
+msgstr ""
+
+#: framework/admin/options.php:422
+msgid "Google+ URL"
+msgstr ""
+
+#: framework/admin/options.php:428
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/admin/options.php:434
+msgid "Linkedin URL"
+msgstr ""
+
+#: framework/admin/options.php:440
+msgid "Pinterest URL"
+msgstr ""
+
+#: framework/admin/options.php:446
+msgid "Rss URL"
+msgstr ""
+
+#: framework/admin/options.php:452
+msgid "Skype URL"
+msgstr ""
+
+#: framework/admin/options.php:458
+msgid "Tumblr URL"
+msgstr ""
+
+#: framework/admin/options.php:464
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/admin/options.php:471
+msgid "Vimeo URL"
+msgstr ""
+
+#: framework/admin/options.php:477
+msgid "Yahoo URL"
+msgstr ""
+
+#: framework/admin/options.php:483
+msgid "Youtube URL"
+msgstr ""
+
+#: framework/admin/options.php:493
+msgid "Font Icons"
+msgstr ""
+
+#: framework/admin/options.php:499
+msgid "Include Elusive Icons"
+msgstr ""
+
+#: framework/admin/options.php:507
+msgid "Include Font Awesome Icons"
+msgstr ""
+
+#: framework/admin/options.php:515
+msgid "Include Iconic Icons"
+msgstr ""
+
+#: framework/admin/options.php:523
+msgid "Include Typicons Icons"
+msgstr ""
+
+#: framework/admin/options.php:535
+msgid "Logo"
+msgstr ""
+
+#: framework/admin/options.php:536
+msgid "<p class=\"description\">These are options for the logo.</p>"
+msgstr ""
+
+#: framework/admin/options.php:541
+msgid "Origial Logo"
+msgstr ""
+
+#: framework/admin/options.php:542
+msgid "Upload the original logo"
+msgstr ""
+
+#: framework/admin/options.php:548
+msgid "Width Of Original Logo"
+msgstr ""
+
+#: framework/admin/options.php:549
+msgid ""
+"If Retina Logo is NOT uploaded, please specify the width of the Original Logo"
+msgstr ""
+
+#: framework/admin/options.php:556
+msgid "Height Of Original Logo"
+msgstr ""
+
+#: framework/admin/options.php:557
+msgid ""
+"If Retina Logo is NOT uploaded, please specify the height of the Original "
+"Logo"
+msgstr ""
+
+#: framework/admin/options.php:563
+msgid "Retina Logo"
+msgstr ""
+
+#: framework/admin/options.php:564
+msgid "Logo for high resolution device."
+msgstr ""
+
+#: framework/admin/options.php:574 framework/admin/options.php:901
+msgid "Header"
+msgstr ""
+
+#: framework/admin/options.php:575
+msgid "<p class=\"description\">These are options for header.</p>"
+msgstr ""
+
+#: framework/admin/options.php:580
+msgid "Header Layout"
+msgstr ""
+
+#: framework/admin/options.php:581
+msgid "Choose the layout of header"
+msgstr ""
+
+#: framework/admin/options.php:584
+msgid "Left Logo"
+msgstr ""
+
+#: framework/admin/options.php:585
+msgid "Center Logo"
+msgstr ""
+
+#: framework/admin/options.php:591
+msgid "Header Ads Code"
+msgstr ""
+
+#: framework/admin/options.php:592
+msgid ""
+"Enter your Advertising Code The code must including <strong>&lt;script&gt;</"
+"strong> tag."
+msgstr ""
+
+#: framework/admin/options.php:601 framework/admin/options.php:953
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/options.php:602
+msgid "<p class=\"description\">These are options for footer.</p>"
+msgstr ""
+
+#: framework/admin/options.php:607
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/admin/options.php:608
+msgid "Enter your copyright text. HTML and shortcode is allowed."
+msgstr ""
+
+#: framework/admin/options.php:618
+msgid "Favicon"
+msgstr ""
+
+#: framework/admin/options.php:619
+msgid "<p class=\"description\">These are options for favicons.</p>"
+msgstr ""
+
+#: framework/admin/options.php:625
+msgid "Favicon (16x16)"
+msgstr ""
+
+#: framework/admin/options.php:626
+msgid "Default Favicon"
+msgstr ""
+
+#: framework/admin/options.php:631
+msgid "Apple iPhone Icon (57x57)"
+msgstr ""
+
+#: framework/admin/options.php:632
+msgid "Icon for Classic iphone"
+msgstr ""
+
+#: framework/admin/options.php:637
+msgid "Apple iPhone Retina Icon (114x114)"
+msgstr ""
+
+#: framework/admin/options.php:638
+msgid "Icon for Retina iPhone"
+msgstr ""
+
+#: framework/admin/options.php:643
+msgid "Apple iPad Icon (72x72)"
+msgstr ""
+
+#: framework/admin/options.php:644
+msgid "Icon for Classic iPad"
+msgstr ""
+
+#: framework/admin/options.php:649
+msgid "Apple iPad Retina Icon (144x144)"
+msgstr ""
+
+#: framework/admin/options.php:650
+msgid "Icon for Retina iPad"
+msgstr ""
+
+#: framework/admin/options.php:659
+msgid "Typography"
+msgstr ""
+
+#: framework/admin/options.php:660
+msgid "<p class=\"description\">These are options for text style.</p>"
+msgstr ""
+
+#: framework/admin/options.php:665
+msgid "Heading Text"
+msgstr ""
+
+#: framework/admin/options.php:678
+msgid "Body Text"
+msgstr ""
+
+#: framework/admin/options.php:689
+msgid "Custom Font 1"
+msgstr ""
+
+#: framework/admin/options.php:694 framework/admin/options.php:723
+msgid ".TTF Font File"
+msgstr ""
+
+#: framework/admin/options.php:700 framework/admin/options.php:729
+msgid ".WOFF Font File"
+msgstr ""
+
+#: framework/admin/options.php:706 framework/admin/options.php:735
+msgid ".SVG Font File"
+msgstr ""
+
+#: framework/admin/options.php:712 framework/admin/options.php:741
+msgid ".EOT Font File"
+msgstr ""
+
+#: framework/admin/options.php:718
+msgid "Custom Font 2"
+msgstr ""
+
+#: framework/admin/options.php:751
+msgid "Gallery Slider"
+msgstr ""
+
+#: framework/admin/options.php:752
+msgid ""
+"<p class=\"description\">These are the options for the image gallery slider "
+"that is displayed in the blog entry.</p>"
+msgstr ""
+
+#: framework/admin/options.php:757
+msgid "Automatic Start"
+msgstr ""
+
+#: framework/admin/options.php:764
+msgid "Random Order"
+msgstr ""
+
+#: framework/admin/options.php:771
+msgid "Pause On Hover"
+msgstr ""
+
+#: framework/admin/options.php:778
+msgid "Transition"
+msgstr ""
+
+#: framework/admin/options.php:783
+msgid "Animation"
+msgstr ""
+
+#: framework/admin/options.php:784
+msgid "Choose the animation style"
+msgstr ""
+
+#: framework/admin/options.php:787
+msgid "Fade"
+msgstr ""
+
+#: framework/admin/options.php:788
+msgid "Slide"
+msgstr ""
+
+#: framework/admin/options.php:794
+msgid "Easing"
+msgstr ""
+
+#: framework/admin/options.php:795
+msgid "Choose the easing of transition"
+msgstr ""
+
+#: framework/admin/options.php:798
+msgid "Linear"
+msgstr ""
+
+#: framework/admin/options.php:799
+msgid "Ease In Sine"
+msgstr ""
+
+#: framework/admin/options.php:800
+msgid "Ease Out Sine"
+msgstr ""
+
+#: framework/admin/options.php:801
+msgid "Ease In-Out Sine"
+msgstr ""
+
+#: framework/admin/options.php:802
+msgid "Ease In Quad"
+msgstr ""
+
+#: framework/admin/options.php:803
+msgid "Ease Out Quad"
+msgstr ""
+
+#: framework/admin/options.php:804
+msgid "Ease In-Out Quad"
+msgstr ""
+
+#: framework/admin/options.php:805
+msgid "Ease In Cubic"
+msgstr ""
+
+#: framework/admin/options.php:806
+msgid "Ease Out Cubic"
+msgstr ""
+
+#: framework/admin/options.php:807
+msgid "Ease In-Out Cubic"
+msgstr ""
+
+#: framework/admin/options.php:808
+msgid "Ease In Quart"
+msgstr ""
+
+#: framework/admin/options.php:809
+msgid "Ease Out Quart"
+msgstr ""
+
+#: framework/admin/options.php:810
+msgid "Ease In-Out Quart"
+msgstr ""
+
+#: framework/admin/options.php:811
+msgid "Ease In Quint"
+msgstr ""
+
+#: framework/admin/options.php:812
+msgid "Ease Out Quint"
+msgstr ""
+
+#: framework/admin/options.php:813
+msgid "Ease In-Out Quint"
+msgstr ""
+
+#: framework/admin/options.php:814
+msgid "Ease In Expo"
+msgstr ""
+
+#: framework/admin/options.php:815
+msgid "Ease Out Expo"
+msgstr ""
+
+#: framework/admin/options.php:816
+msgid "Ease In-Out Expo"
+msgstr ""
+
+#: framework/admin/options.php:817
+msgid "Ease In Circ"
+msgstr ""
+
+#: framework/admin/options.php:818
+msgid "Ease Out Circ"
+msgstr ""
+
+#: framework/admin/options.php:819
+msgid "Ease In-Out Circ"
+msgstr ""
+
+#: framework/admin/options.php:820
+msgid "Ease In Back"
+msgstr ""
+
+#: framework/admin/options.php:821
+msgid "Ease Out Back"
+msgstr ""
+
+#: framework/admin/options.php:822
+msgid "Ease In-Out Back"
+msgstr ""
+
+#: framework/admin/options.php:823
+msgid "Ease In Elastic"
+msgstr ""
+
+#: framework/admin/options.php:824
+msgid "Ease Out Elastic"
+msgstr ""
+
+#: framework/admin/options.php:825
+msgid "Ease In-Out Elastic"
+msgstr ""
+
+#: framework/admin/options.php:826
+msgid "Ease In Bounce"
+msgstr ""
+
+#: framework/admin/options.php:827
+msgid "Ease Out Bounce"
+msgstr ""
+
+#: framework/admin/options.php:828
+msgid "Ease In-Out Bounce"
+msgstr ""
+
+#: framework/admin/options.php:834
+msgid "Slideshow Duration"
+msgstr ""
+
+#: framework/admin/options.php:835
+msgid "The time for showing slide, in milliseconds"
+msgstr ""
+
+#: framework/admin/options.php:842
+msgid "Animation Speed"
+msgstr ""
+
+#: framework/admin/options.php:843
+msgid "The time for transition, in milliseconds"
+msgstr ""
+
+#: framework/admin/options.php:854
+msgid "Colors"
+msgstr ""
+
+#: framework/admin/options.php:855
+msgid "<p class=\"description\">These are options for theme color.</p>"
+msgstr ""
+
+#: framework/admin/options.php:860
+msgid "Primary Color"
+msgstr ""
+
+#: framework/admin/options.php:861
+msgid "Font color for links, buttons, hilight area, etc"
+msgstr ""
+
+#: framework/admin/options.php:868
+msgid "Top-Bar"
+msgstr ""
+
+#: framework/admin/options.php:873 framework/admin/options.php:906
+#: framework/admin/options.php:925 framework/admin/options.php:958
+#: framework/admin/options.php:983
+msgid "Background Color"
+msgstr ""
+
+#: framework/admin/options.php:874 framework/admin/options.php:907
+#: framework/admin/options.php:926 framework/admin/options.php:959
+#: framework/admin/options.php:984
+msgid "Default backgroud color"
+msgstr ""
+
+#: framework/admin/options.php:880 framework/admin/options.php:913
+#: framework/admin/options.php:932 framework/admin/options.php:965
+#: framework/admin/options.php:990
+msgid "Font Color"
+msgstr ""
+
+#: framework/admin/options.php:886 framework/admin/options.php:938
+msgid "Hightlight Color"
+msgstr ""
+
+#: framework/admin/options.php:887 framework/admin/options.php:939
+msgid "Hightlight color for link and button hover, etc"
+msgstr ""
+
+#: framework/admin/options.php:893 framework/admin/options.php:945
+msgid "Hightlight Font Color"
+msgstr ""
+
+#: framework/admin/options.php:894 framework/admin/options.php:946
+msgid "Hightlight font color for link and button hover, etc"
+msgstr ""
+
+#: framework/admin/options.php:920
+msgid "Main Navigation"
+msgstr ""
+
+#: framework/admin/options.php:971
+msgid "Heading Font Color"
+msgstr ""
+
+#: framework/admin/options.php:978
+msgid "Copyright Bar"
+msgstr ""
+
+#: framework/admin/options.php:1000
+msgid "Custom JS / CSS"
+msgstr ""
+
+#: framework/admin/options.php:1001
+msgid ""
+"<p class=\"description\">These are options for customizing the javascript "
+"and css without editing the files.</p>"
+msgstr ""
+
+#: framework/admin/options.php:1006
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/admin/options.php:1007
+msgid "Add your CSS"
+msgstr ""
+
+#: framework/admin/options.php:1013
+msgid "Custom JS"
+msgstr ""
+
+#: framework/admin/options.php:1014
+msgid "Add your JS"
+msgstr ""
+
+#: framework/admin/options.php:1041
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: framework/admin/options.php:1042
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: framework/admin/options.php:1043
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: framework/admin/options.php:1045
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: framework/admin/options.php:1051
+msgid "Theme Information"
+msgstr ""
+
+#: framework/class.SidebarGenerator.php:50
+msgid "These are widgets."
+msgstr ""
+
+#: framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: framework/envato-wordpress-toolkit-library/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: framework/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:288
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: framework/envato-wordpress-toolkit-library/class-envato-wordpress-theme-upgrader.php:299
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: framework/envato-wordpress-toolkit-library/connect-wordpress-toolkit.php:12
+msgid ""
+"To enable theme update notifications, please enter your Envato Marketplace "
+"credentials in the %s"
+msgstr ""
+
+#: framework/envato-wordpress-toolkit-library/connect-wordpress-toolkit.php:21
+msgid "An update to the theme is available! Head over to %s to update it now."
+msgstr ""
+
+#: framework/instant-search/instant-search.php:41
+msgid "No result was found."
+msgstr ""
+
+#: framework/instant-search/instant-search.php:92
+msgid "View all results &raquo;"
+msgstr ""
+
+#: framework/meta-box/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr ""
+
+#: framework/meta-box/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr ""
+
+#: framework/meta-box/demo/better-include.php:16
+#: framework/meta-box/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr ""
+
+#: framework/meta-box/demo/better-include.php:19
+#: framework/meta-box/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr ""
+
+#: framework/meta-box/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: framework/meta-box/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr ""
+
+#: framework/meta-box/demo/date-time-js-options.php:21
+#: framework/meta-box/demo/demo.php:184
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: framework/meta-box/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr ""
+
+#: framework/meta-box/demo/date-time-js-options.php:24
+#: framework/meta-box/demo/demo.php:185
+msgid "yy-mm-dd"
+msgstr ""
+
+#: framework/meta-box/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr ""
+
+#: framework/meta-box/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:34
+msgid "Standard Fields"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:53
+msgid "Text"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:57
+msgid "Text description"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:60
+msgid "Default text value"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:66
+msgid "Checkbox"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:74
+msgid "Radio"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:80 framework/meta-box/demo/demo.php:91
+#: framework/meta-box/demo/demo.php:233 framework/meta-box/demo/demo.php:278
+msgid "Label1"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:81 framework/meta-box/demo/demo.php:92
+#: framework/meta-box/demo/demo.php:234 framework/meta-box/demo/demo.php:279
+msgid "Label2"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:86 framework/meta-box/demo/demo.php:273
+msgid "Select"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:97 framework/meta-box/demo/demo.php:284
+msgid "Select an Item"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:104
+msgid "Hidden value"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:114
+msgid "Textarea"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:115
+msgid "Textarea description"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:132
+msgid "Password is required"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:133
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:141
+msgid "Advanced Fields"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:147
+msgid "Heading"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:152
+msgid "Slider"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:157
+msgid "$"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:158
+msgid " USD"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:169
+msgid "Number"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:178
+msgid "Date picker"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:193
+msgid "Datetime picker"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:207
+msgid "Time picker"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:222
+msgid "Color picker"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:228
+msgid "Checkbox list"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:241
+msgid "Email description"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:247
+msgid "Range"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:249
+msgid "Range description"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:258
+msgid "URL"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:260
+msgid "URL description"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:266
+msgid "oEmbed"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:268
+msgid "oEmbed description"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:288
+msgid "Taxonomy"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:302
+msgid "Posts (Pages)"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:318
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:323
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:339
+#: framework/meta-box/demo/force-delete.php:15
+msgid "File Upload"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:345
+msgid "File Advanced Upload"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:353
+#: framework/meta-box/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:359
+#: framework/meta-box/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:365
+#: framework/meta-box/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: framework/meta-box/demo/demo.php:372
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: framework/meta-box/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr ""
+
+#: framework/meta-box/demo/map.php:9
+msgid "Google Map"
+msgstr ""
+
+#: framework/meta-box/demo/map.php:13
+msgid "Address"
+msgstr ""
+
+#: framework/meta-box/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: framework/meta-box/demo/map.php:19
+msgid "Location"
+msgstr ""
+
+#: framework/meta-box/inc/classes/meta-box.php:252
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: framework/meta-box/inc/classes/meta-box.php:426
+msgid "+"
+msgstr ""
+
+#: framework/meta-box/inc/classes/meta-box.php:448
+msgid "&#8211;"
+msgstr ""
+
+#: framework/meta-box/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:19
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:20
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image.php:62
+msgid "Order saved"
+msgstr ""
+
+#: framework/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: framework/meta-box/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: framework/meta-box/inc/fields/post.php:68
+#: framework/meta-box/inc/fields/taxonomy.php:40
+msgid "Select a %s"
+msgstr ""
+
+#: framework/meta-boxes.php:26
+msgid "Post Options"
+msgstr ""
+
+#: framework/meta-boxes.php:30
+msgid "Make this post featured"
+msgstr ""
+
+#: framework/meta-boxes.php:35
+msgid "Post Layout"
+msgstr ""
+
+#: framework/meta-boxes.php:37
+msgid "Choose the post layout."
+msgstr ""
+
+#: framework/meta-boxes.php:41 framework/meta-boxes.php:70
+msgid "Right Sidebar"
+msgstr ""
+
+#: framework/meta-boxes.php:42
+msgid "Full Width"
+msgstr ""
+
+#: framework/meta-boxes.php:53
+msgid "Page Options"
+msgstr ""
+
+#: framework/meta-boxes.php:57
+msgid "Page Subtitle"
+msgstr ""
+
+#: framework/meta-boxes.php:62
+msgid "Sidebar Position"
+msgstr ""
+
+#: framework/meta-boxes.php:64
+msgid "Choose the sidebar position."
+msgstr ""
+
+#: framework/meta-boxes.php:68
+msgid "Hidden"
+msgstr ""
+
+#: framework/meta-boxes.php:69
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/meta-boxes.php:74
+msgid "Sidebar"
+msgstr ""
+
+#: framework/meta-boxes.php:76
+msgid ""
+"You can edit the Default Page Sidebar at Theme Options page (General &gt; "
+"Default Sidebar For Pages)."
+msgstr ""
+
+#: framework/meta-boxes.php:88
+msgid "Review Options"
+msgstr ""
+
+#: framework/meta-boxes.php:92
+msgid "Enable Review"
+msgstr ""
+
+#: framework/meta-boxes.php:97
+msgid "Review Summary"
+msgstr ""
+
+#: framework/meta-boxes.php:103 framework/template-tags.php:53
+msgid "Review Score"
+msgstr ""
+
+#: framework/meta-boxes.php:116
+msgid "Gallery Post Options"
+msgstr ""
+
+#: framework/meta-boxes.php:120
+msgid "Gallery Images"
+msgstr ""
+
+#: framework/meta-boxes.php:129
+msgid "Audio Post Options"
+msgstr ""
+
+#: framework/meta-boxes.php:133
+msgid "Sound Cloud Audio Source"
+msgstr ""
+
+#: framework/meta-boxes.php:143
+msgid "Video Post Options"
+msgstr ""
+
+#: framework/meta-boxes.php:147
+msgid "Video Source"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:19
+msgid "Featured Post Slider"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:23
+#: framework/page-composer/page-composer.php:207
+msgid "Choose a post category to be shown up"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:29
+msgid "Show only posts marked as Featured post or show all posts."
+msgstr ""
+
+#: framework/page-composer/page-composer.php:33
+msgid "Only posts marked as Featured post"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:34
+msgid "Show all posts"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:39
+#: framework/page-composer/page-composer.php:85
+#: framework/page-composer/page-composer.php:149
+#: framework/page-composer/page-composer.php:213
+#: framework/page-composer/page-composer.php:283
+msgid "Enter the number"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:45
+msgid "Enable additional featured posts under post slider (Max. 4 posts)"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:49
+#: framework/page-composer/page-composer.php:119
+#: framework/page-composer/page-composer.php:177
+#: framework/page-composer/page-composer.php:241
+#: framework/page-composer/page-composer.php:311
+msgid "Do not show"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:50
+#: framework/page-composer/page-composer.php:120
+#: framework/page-composer/page-composer.php:178
+#: framework/page-composer/page-composer.php:242
+#: framework/page-composer/page-composer.php:312
+msgid "Show"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:55
+#: framework/page-composer/page-composer.php:109
+#: framework/page-composer/page-composer.php:167
+#: framework/page-composer/page-composer.php:231
+#: framework/page-composer/page-composer.php:371
+msgid "Choose a sidebar to be shown up"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:63
+msgid "Latest Posts"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:67
+#: framework/page-composer/page-composer.php:131
+#: framework/page-composer/page-composer.php:189
+#: framework/page-composer/page-composer.php:253
+#: framework/page-composer/page-composer.php:347
+msgid "The text over the title"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:73
+#: framework/page-composer/page-composer.php:137
+#: framework/page-composer/page-composer.php:195
+#: framework/page-composer/page-composer.php:259
+#: framework/page-composer/page-composer.php:353
+msgid "The section title"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:79
+#: framework/page-composer/page-composer.php:143
+#: framework/page-composer/page-composer.php:201
+#: framework/page-composer/page-composer.php:265
+#: framework/page-composer/page-composer.php:359
+msgid "The text under the title"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:91
+msgid "Choose the post categories to be excluded"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:97
+msgid "Choose the post thumbnail style"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:102
+#: framework/page-composer/page-composer.php:160
+#: framework/page-composer/page-composer.php:224
+#: framework/page-composer/page-composer.php:294
+msgid "Large & Small Thumbnail"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:104
+#: framework/page-composer/page-composer.php:162
+#: framework/page-composer/page-composer.php:226
+#: framework/page-composer/page-composer.php:296
+msgid "Poster"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:115
+#: framework/page-composer/page-composer.php:173
+#: framework/page-composer/page-composer.php:237
+#: framework/page-composer/page-composer.php:307
+msgid "Show the pagination"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:127
+msgid "Latest Reviews"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:155
+#: framework/page-composer/page-composer.php:219
+#: framework/page-composer/page-composer.php:289
+msgid "Choose a post thumbnail style"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:185
+msgid "Latest By Category"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:249
+msgid "Latest By Format"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:271
+msgid "Choose a post format to be shown up"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:275
+msgid "Standard"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:276
+msgid "Audio"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:277
+msgid "Video"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:278
+msgid "Gallery"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:301
+#: framework/page-composer/page-composer.php:323
+#: framework/page-composer/page-composer.php:329
+#: framework/page-composer/page-composer.php:335
+msgid "Choose a sidebar to be show up"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:319
+msgid "3 Sidebars"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:343
+msgid "Custom Content"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:365
+msgid "Enter the content (HTML is allowance)"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:417
+msgid "Add Section"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:425
+msgid "Click <strong>Add Section</strong> button to add new section."
+msgstr ""
+
+#: framework/page-composer/page-composer.php:426
+msgid "Loading ..."
+msgstr ""
+
+#: framework/page-composer/page-composer.php:487
+#: framework/widgets/latest-category.php:154
+#: framework/widgets/post-slider.php:137
+msgid "All"
+msgstr ""
+
+#: framework/page-composer/page-composer.php:507
+msgid "None"
+msgstr ""
+
+#: framework/sidebars.php:18
+msgid "Blog Sidebar"
+msgstr ""
+
+#: framework/sidebars.php:20
+msgid "These are widgets for the Blog sidebar."
+msgstr ""
+
+#: framework/sidebars.php:31
+msgid "Page Sidebar"
+msgstr ""
+
+#: framework/sidebars.php:33
+msgid "These are widgets for the static page."
+msgstr ""
+
+#: framework/sidebars.php:44
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: framework/sidebars.php:46 framework/sidebars.php:55
+#: framework/sidebars.php:64
+msgid "These are widgets for the Footer."
+msgstr ""
+
+#: framework/sidebars.php:53
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: framework/sidebars.php:62
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: framework/template-tags.php:17
+msgid "%s"
+msgstr ""
+
+#: framework/template-tags.php:19
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/template-tags.php:19
+msgid "(Edit)"
+msgstr ""
+
+#: framework/template-tags.php:27
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/template-tags.php:47
+msgid "Sticky Post"
+msgstr ""
+
+#: framework/template-tags.php:56
+msgid "Gallery Post"
+msgstr ""
+
+#: framework/template-tags.php:58
+msgid "Video Post"
+msgstr ""
+
+#: framework/template-tags.php:60
+msgid "Audio Post"
+msgstr ""
+
+#: framework/template-tags.php:67 single_fullwidth.php:46
+#: single_right_sidebar.php:43
+msgid "View all posts in %s"
+msgstr ""
+
+#: framework/user-profile-fields.php:14
+msgid "Social Profiles"
+msgstr ""
+
+#: framework/user-profile-fields.php:19
+msgid "Twitter"
+msgstr ""
+
+#: framework/user-profile-fields.php:28
+msgid "Facebook"
+msgstr ""
+
+#: framework/user-profile-fields.php:37
+msgid "Google+"
+msgstr ""
+
+#: framework/user-profile-fields.php:46
+msgid "Pinterest"
+msgstr ""
+
+#: framework/widgets/about-us.php:24
+msgid "Display Information About The Site"
+msgstr ""
+
+#: framework/widgets/about-us.php:39 framework/widgets/authors.php:45
+#: framework/widgets/categories.php:41 framework/widgets/custom-text.php:38
+#: framework/widgets/latest-category.php:42
+#: framework/widgets/latest-comments.php:40
+#: framework/widgets/most-commented.php:38
+#: framework/widgets/post-slider.php:42 framework/widgets/review-posts.php:41
+#: framework/widgets/social-subscription.php:46
+msgid "<span class=\"super-title\">%s</span>"
+msgstr ""
+
+#: framework/widgets/about-us.php:83 framework/widgets/authors.php:112
+#: framework/widgets/categories.php:165
+#: framework/widgets/custom-banner.php:110
+#: framework/widgets/custom-text.php:81
+#: framework/widgets/latest-category.php:131
+#: framework/widgets/latest-comments.php:118
+#: framework/widgets/most-commented.php:95
+#: framework/widgets/post-slider.php:114
+#: framework/widgets/review-posts.php:125
+#: framework/widgets/social-subscription.php:175
+msgid "Super-title:"
+msgstr ""
+
+#: framework/widgets/about-us.php:89 framework/widgets/authors.php:118
+#: framework/widgets/categories.php:171
+#: framework/widgets/custom-banner.php:116
+#: framework/widgets/custom-text.php:87
+#: framework/widgets/latest-category.php:137
+#: framework/widgets/latest-comments.php:124
+#: framework/widgets/most-commented.php:101
+#: framework/widgets/post-slider.php:120
+#: framework/widgets/review-posts.php:131
+#: framework/widgets/social-subscription.php:181
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/about-us.php:95 framework/widgets/custom-text.php:93
+msgid "Content:"
+msgstr ""
+
+#: framework/widgets/authors.php:25
+msgid "Display authors"
+msgstr ""
+
+#: framework/widgets/authors.php:72 framework/widgets/categories.php:89
+#: framework/widgets/categories.php:116
+#: framework/widgets/latest-comments.php:65
+#: framework/widgets/latest-comments.php:75 search.php:28
+#: templates/about-category.php:2 templates/post-box/classic.php:8
+#: templates/post-box/classic.php:11 templates/post-box/classic.php:26
+#: templates/post-box/classic.php:31 templates/post-box/classic.php:36
+#: templates/post-box/classic.php:39 templates/post-box/comment-count.php:4
+#: templates/post-box/comment-count.php:10
+#: templates/post-box/comment-count.php:12 templates/post-box/headline.php:3
+#: templates/post-box/headline.php:8 templates/post-box/headline.php:12
+#: templates/post-box/large-thumbnail-tiny.php:8
+#: templates/post-box/large-thumbnail-tiny.php:11
+#: templates/post-box/large-thumbnail-tiny.php:22
+#: templates/post-box/large-thumbnail-tiny.php:27
+#: templates/post-box/large-thumbnail.php:8
+#: templates/post-box/large-thumbnail.php:11
+#: templates/post-box/large-thumbnail.php:26
+#: templates/post-box/large-thumbnail.php:31
+#: templates/post-box/large-thumbnail.php:36
+#: templates/post-box/large-thumbnail.php:39
+#: templates/post-box/post-slider.php:6 templates/post-box/poster.php:8
+#: templates/post-box/poster.php:10 templates/post-box/small-thumbnail.php:5
+#: templates/post-box/small-thumbnail.php:11
+#: templates/post-box/small-thumbnail.php:15 templates/post-meta.php:6
+msgid "Permalink to %s"
+msgstr ""
+
+#: framework/widgets/authors.php:124
+msgid "Author Role:"
+msgstr ""
+
+#: framework/widgets/categories.php:27
+msgid "Display categories"
+msgstr ""
+
+#: framework/widgets/categories.php:178
+msgid "Show post counts"
+msgstr ""
+
+#: framework/widgets/categories.php:184
+msgid "Show description"
+msgstr ""
+
+#: framework/widgets/categories.php:190
+msgid "Show latest posts (Only post contains featured image)"
+msgstr ""
+
+#: framework/widgets/categories.php:194
+msgid "Select Categories (No select for all):"
+msgstr ""
+
+#: framework/widgets/custom-banner.php:27
+msgid "Display banner"
+msgstr ""
+
+#: framework/widgets/custom-banner.php:43
+msgid "<h6 class=\"banner-supertitle\">%s</h6>"
+msgstr ""
+
+#: framework/widgets/custom-banner.php:49
+msgid "<h3 class=\"banner-title\">%s</h3>"
+msgstr ""
+
+#: framework/widgets/custom-banner.php:54
+msgid "<div class=\"banner-subtitle\">%s</div>"
+msgstr ""
+
+#: framework/widgets/custom-banner.php:59
+msgid ""
+"<a href=\"%s\" class=\"banner-button read-more label label-large primary-bg"
+"\">%s</a>"
+msgstr ""
+
+#: framework/widgets/custom-banner.php:122
+msgid "Subtitle:"
+msgstr ""
+
+#: framework/widgets/custom-banner.php:128
+#: framework/widgets/image-banner.php:57
+msgid "Image Url:"
+msgstr ""
+
+#: framework/widgets/custom-banner.php:134
+#: framework/widgets/image-banner.php:63
+msgid "Link Url:"
+msgstr ""
+
+#: framework/widgets/custom-banner.php:140
+msgid "Button Text:"
+msgstr ""
+
+#: framework/widgets/custom-text.php:23
+msgid "Display Custom Text"
+msgstr ""
+
+#: framework/widgets/image-banner.php:23
+msgid "Display image banner 300x300, 300x250 or 250x250"
+msgstr ""
+
+#: framework/widgets/latest-category.php:27
+msgid "Display latest posts from category"
+msgstr ""
+
+#: framework/widgets/latest-category.php:52
+#: framework/widgets/post-slider.php:52 framework/widgets/review-posts.php:51
+#: framework/widgets/social-subscription.php:56
+msgid "<p class=\"section-description\">%s</p>"
+msgstr ""
+
+#: framework/widgets/latest-category.php:143
+#: framework/widgets/post-slider.php:126
+#: framework/widgets/review-posts.php:137
+#: framework/widgets/social-subscription.php:187
+msgid "Sub-title:"
+msgstr ""
+
+#: framework/widgets/latest-category.php:149
+msgid "Show posts in category:"
+msgstr ""
+
+#: framework/widgets/latest-category.php:162
+msgid "Thumbnail size:"
+msgstr ""
+
+#: framework/widgets/latest-category.php:164
+msgid "Small Thumbnail"
+msgstr ""
+
+#: framework/widgets/latest-category.php:166
+msgid "Large &amp; Small Thumbnail"
+msgstr ""
+
+#: framework/widgets/latest-comments.php:25
+msgid "Display latest comments"
+msgstr ""
+
+#: framework/widgets/latest-comments.php:130
+msgid "Number of comments to show:"
+msgstr ""
+
+#: framework/widgets/latest-comments.php:136
+msgid "Excerpt length (0 for disabled):"
+msgstr ""
+
+#: framework/widgets/most-commented.php:24
+msgid "Display most commented posts"
+msgstr ""
+
+#: framework/widgets/post-slider.php:26
+msgid "Display latest posts as slider"
+msgstr ""
+
+#: framework/widgets/post-slider.php:132
+msgid "Show posts from category:"
+msgstr ""
+
+#: framework/widgets/review-posts.php:26
+msgid "Display review posts"
+msgstr ""
+
+#: framework/widgets/review-posts.php:143
+msgid "Order by:"
+msgstr ""
+
+#: framework/widgets/review-posts.php:145
+msgid "Best score"
+msgstr ""
+
+#: framework/widgets/review-posts.php:146
+msgid "Latest review"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:31
+msgid "Display site social with counter"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:73
+msgid "Follow our twitter"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:76
+msgid "followers"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:87
+msgid "Like our facebook"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:90
+msgid "fans"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:101
+msgid "Subscribe our youtube"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:104
+msgid "subscribers"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:115
+msgid "+1 our page"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:118
+msgid "people"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:193
+msgid "Twitter name:"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:199
+msgid "Twitter consumer key:"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:205
+msgid "Twitter consumer secret:"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:211
+msgid "Facebook ID:"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:218
+msgid "Youtube name:"
+msgstr ""
+
+#: framework/widgets/social-subscription.php:224
+msgid "Google+ Username/ID:"
+msgstr ""
+
+#: framework/woocommerce.php:54
+msgid "Shop"
+msgstr ""
+
+#: functions.php:196
+msgid "Page %s"
+msgstr ""
+
+#: index.php:41 single_fullwidth.php:66 single_right_sidebar.php:63
+msgid "Sorry, no posts were found"
+msgstr ""
+
+#: search.php:12
+msgid "%s search results found for &ldquo;%s&rdquo;."
+msgstr ""
+
+#: search.php:14
+msgid "%s search result found for &ldquo;%s&rdquo;."
+msgstr ""
+
+#: single_fullwidth.php:35 single_right_sidebar.php:32
+msgid "Pages:"
+msgstr ""
+
+#: templates/about-author.php:14
+msgid "About the Author"
+msgstr ""
+
+#: templates/pagination.php:11 woocommerce/loop/pagination.php:24
+msgid "&laquo;"
+msgstr ""
+
+#: templates/pagination.php:12 woocommerce/loop/pagination.php:25
+msgid "&raquo;"
+msgstr ""
+
+#: templates/post-box/classic.php:30 templates/post-box/headline.php:7
+#: templates/post-box/large-thumbnail-tiny.php:26
+#: templates/post-box/large-thumbnail.php:30
+#: templates/post-box/small-thumbnail.php:14 templates/post-meta.php:3
+msgid "View all posts by"
+msgstr ""
+
+#: templates/post-box/classic.php:37 templates/post-box/large-thumbnail.php:37
+#: templates/post-box/post-slider.php:19 templates/post-box/poster.php:11
+msgid "Read more"
+msgstr ""
+
+#: templates/post-box/classic.php:40 templates/post-box/large-thumbnail.php:40
+msgid "0 Comments"
+msgstr ""
+
+#: templates/post-formats/format-gallery.php:9
+#: templates/post-formats/format.php:9
+msgid "Permalink to image of %s"
+msgstr ""
+
+#: templates/post-navigation.php:7
+msgid "Next post"
+msgstr ""
+
+#: templates/post-navigation.php:18
+msgid "Previous post"
+msgstr ""
+
+#: templates/post-related.php:33
+msgid "Related Posts"
+msgstr ""
+
+#: templates/post-review.php:9
+msgid "Editor's Rating"
+msgstr ""
+
+#: templates/social-share.php:2
+msgid "SHARE ON:"
+msgstr ""
+
+#: templates/social-share.php:5
+msgid "Share on Facebook"
+msgstr ""
+
+#: templates/social-share.php:9
+msgid "Share on Twitter"
+msgstr ""
+
+#: templates/social-share.php:13
+msgid "Share on Google+"
+msgstr ""
+
+#: templates/social-share.php:27
+msgid "Share on Pinterest"
+msgstr ""
+
+#: templates/social-share.php:31
+msgid "Share on Tumblr"
+msgstr ""
+
+#: templates/social-share.php:35
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: templates/social-share.php:39
+msgid "Share on Delicious"
+msgstr ""
+
+#: templates/social-share.php:43
+msgid "Share on Reddit"
+msgstr ""
+
+#: templates/social-share.php:47
+msgid "Share on Digg"
+msgstr ""
+
+#: templates/social-share.php:51
+msgid "Share on E-Mail"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:19
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:27
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:36
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Theme Name of the plugin/theme
+msgid "Presso"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://envirra.com/themes/presso"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Magazine WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "envirra"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://envirra.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Composer"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Title"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-advanced.php:66
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-advanced.php:102
+#: framework/meta-box/inc/fields/file.php:138
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-advanced.php:103
+#: framework/meta-box/inc/fields/file.php:139
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:84
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:85
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image-advanced.php:71
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image-advanced.php:107
+#: framework/meta-box/inc/fields/image.php:142
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image-advanced.php:108
+#: framework/meta-box/inc/fields/image.php:143
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image.php:76
+#: framework/meta-box/inc/fields/thickbox-image.php:35
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image.php:77
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: framework/meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: framework/meta-box/inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: framework/meta-box/inc/fields/plupload-image.php:106
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/plupload-image.php:181
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
